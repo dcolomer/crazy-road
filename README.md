@@ -1,14 +1,15 @@
-**********************
-* Crazy Road         *
-*                    *
-* MSX-Club número 51 *
-* Abril de 1989      *
-**********************
-D. Colomer ha creado el nuevo TURBO K-99 (black car). Tú lo manejas para la gran carrera de los 100 Km, pero en esta carrera vale todo... irán a por ti... así que demuéstrales que tú eres el mejor. Adelántalos y ni siquiera los roces.
+Crazy Road
+==
+MSX-Club nÃºmero 51
+===
+Abril de 1989
+===
 
-Tienes cinco vidas, pero puedes conseguir otra a los 50 Km. Además, puedes alcanzar los 300 Km/h, pero cuidado ¡El motor puede explotar! Vigila también el fuel, desciende vertiginosamente, aunque a los 50 Km aumentará un poco.
+D. Colomer ha creado el nuevo TURBO K-99 (black car). TÃº lo manejas para la gran carrera de los 100 Km, pero en esta carrera vale todo... irÃ¡n a por ti... asÃ­ que demuÃ©strales que tÃº eres el mejor. AdelÃ¡ntalos y ni siquiera los roces.
 
-Los controles son los típicos en estos casos, aceleras con la barra espaciadora y frenas con el cursor.
+Tienes cinco vidas, pero puedes conseguir otra a los 50 Km. AdemÃ¡s, puedes alcanzar los 300 Km/h, pero cuidado Â¡El motor puede explotar! Vigila tambiÃ©n el fuel, desciende vertiginosamente, aunque a los 50 Km aumentarÃ¡ un poco.
+
+Los controles son los tÃ­picos en estos casos, aceleras con la barra espaciadora y frenas con el cursor.
 
 INSTRUCCIONES DE CARGA:
 Sencillamente escribimos CLOAD y pulsamos return
